@@ -1,3 +1,6 @@
 # Project
 Game : Tic- Tac- Toe
-Concept Covered 
+Project Overview
+Concept Covered
+How to Play the Game ?
+Run-through.....
